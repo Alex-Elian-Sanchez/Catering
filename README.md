@@ -5,6 +5,11 @@
 **Duración:** 2 horas
 **Lenguaje:** Java 21 + JUnit 5
 
+# Datos del Alumno
+
+**Nombre y apellido** Sanchez Alex Elian
+**Dni** 45582813
+
 ---
 
 ## 🎯 Objetivo
