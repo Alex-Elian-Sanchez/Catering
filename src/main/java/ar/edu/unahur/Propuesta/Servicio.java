@@ -20,6 +20,10 @@ public class Servicio implements Propuesta {
         return precio;
     }
 
+    public void actualizarPrecio(Double precio) {
+        this.precio = validarPrecio(precio);
+    }
+
     @Override
     public Double calcularPrecio() {
         return precio;
